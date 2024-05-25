@@ -7,3 +7,6 @@
 [submodule "S2 - [Electro] Gyrobot"]
 	path = S2 - [Electro] Gyrobot
 	url = https://github.com/PingoLeon/ING2S2-Gyrobot.git
+[submodule "S2 - [Web] Webdynamique"]
+	path = S2 - [Web] Webdynamique
+	url = https://github.com/PingoLeon/ING2S2-Web.git
